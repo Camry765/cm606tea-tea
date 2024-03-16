@@ -1,0 +1,27 @@
+{
+  "name": "cm606tea-tea",
+  "version": "1.0.0",
+  "description": "testnet tea app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Camry765/cm606tea-tea.git"
+  },
+  "dependencies": {
+    "earn_378_tea": "1.0.0",
+    "application787": "1.0.0",
+    "sasuke-tea-app": "1.0.0",
+    "polina_9056tyy": "1.0.0",
+    "dodatok_team-tea": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Camry765/cm606tea-tea/issues"
+  },
+  "homepage": "https://github.com/Camry765/cm606tea-tea#readme"
+}
